@@ -1,0 +1,13 @@
+#roleta{
+    width: 100%;
+    height: 100vh;
+    align-self: center;
+    align-items: center;
+    display: flex;
+}
+
+#canvas{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
